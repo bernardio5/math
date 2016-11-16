@@ -1,0 +1,2 @@
+This math library, as noted in its source, 
+has been put under the MIT license by its author, Neal McDonald.
