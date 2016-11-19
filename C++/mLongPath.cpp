@@ -1,4 +1,4 @@
-/* // Neal McDonald 2002
+/* // Neal McDonald 2009
 
 
 	17 Jan 2003:	Current implementation involves concatenating Bézier Splines.

@@ -1,4 +1,4 @@
-// Neal McDonald 2002
+// Neal McDonald 2009
 
 
 #include "mx4.h"

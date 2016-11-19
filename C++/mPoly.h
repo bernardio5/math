@@ -1,3 +1,4 @@
+// Neal McDonald 2009
 
 #ifndef M_POLY_CLASS
 #define M_POLY_CLASS

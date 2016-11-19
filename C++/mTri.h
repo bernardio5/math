@@ -1,4 +1,4 @@
-// Neal McDonald 2002
+// Neal McDonald 2009
 
 
 #ifndef M_TRI_CLASS

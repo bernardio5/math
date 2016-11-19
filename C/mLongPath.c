@@ -1,6 +1,5 @@
-/* Neal McDonald 2002 
-	17 Jan 2003:	Current implementation involves concatenating Bézier Splines.
-					Therefore, the number of points in the input parameter must be
+/* Neal McDonald 2009
+	The number of points in the input parameter must be
 					4 + (3n)
 */
 

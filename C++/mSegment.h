@@ -1,4 +1,4 @@
-// Neal McDonald 2002
+// Neal McDonald 2009
 
 
 #ifndef MATH_SEGMENT_CLASS

@@ -1,11 +1,5 @@
 
-
-/* Copyright (C) 2002 Greenhouse Software.  All Rights Reserved.
-	see mBCone.h for intro information about this code. 
-
-	Implementation notes.
-
-	*/
+// Neal McDonald 2009
 
 #include "mBCone.h"
 #include <math.h>

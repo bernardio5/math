@@ -1,6 +1,5 @@
 
-/* Copyright (C) 2002 Greenhouse Software.  
-	All Rights Reserved.
+/* Copyright (C) 2009 Neal McDonald
 	Excuse: 
 		Bounding cones are good for 
 		visibility culling of entities. 

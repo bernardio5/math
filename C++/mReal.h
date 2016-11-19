@@ -1,3 +1,4 @@
+// Neal McDonald 2009
 
 
 #ifndef M_REAL_TYPE
@@ -24,6 +25,4 @@ bool real_gt(real a, real b);
 bool real_lt(real a, real b);
 
 #endif
-
-// Neal McDonald 1/1/2005
 

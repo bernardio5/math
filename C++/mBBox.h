@@ -1,7 +1,7 @@
 #ifndef M_BBOX_CLASS
 #define M_BBOX_CLASS
 
-// Neal McDonald 2002
+// Neal McDonald 2009
 
 // Bounding Boxes
 

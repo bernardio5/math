@@ -1,4 +1,4 @@
-
+// Neal McDonald 2009
 #include <memory.h>
 #include "mPoly.h"
 

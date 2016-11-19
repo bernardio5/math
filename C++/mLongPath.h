@@ -1,4 +1,4 @@
-// Neal McDonald 2002
+// Neal McDonald 2009
 
 //	Math for splines from more than 4 points. 
 

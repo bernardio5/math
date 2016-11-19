@@ -1,6 +1,4 @@
-// Neal McDonald 2002
-
-
+// Neal McDonald 2009
 
 #ifndef M_VEC3_TYPE
 #define M_VEC3_TYPE
@@ -31,6 +29,3 @@ public:
 };
 
 #endif
-
-// Neal McDonald 1/1/2005
-
